@@ -1,7 +1,7 @@
 BFS_AllPossiblePath
 ===================
 
-This is an implementation of BFS to find all possible path between two nodes in a graph. It is just a Java implementation of hide-with-all-the-ghosts.tumblr.com . So all credit goes to  mojave kid. I found this when I was searching for my Android project. So I have to convert this into Java. Thanks to mojave kid.
+This is an implementation of BFS to find all possible path between two nodes in a graph. It is just a Java implementation of ( http://code.activestate.com/recipes/576675/ ) . So all credit goes to  mojave kid. I found this when I was searching for my Android project. So I have to convert this into Java. Thanks to mojave kid.
 
 
 To view the result... run Main.java
